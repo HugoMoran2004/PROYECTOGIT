@@ -6,6 +6,13 @@ public class Cliente implements Comparable <Cliente> {
     int edad;
     double saldo;
     
+    /**
+     * Constructor del cliente
+     * @param dni
+     * @param nombre
+     * @param edad
+     * @param saldo
+     */
     public Cliente(String dni, String nombre, int edad, double saldo) {
         super();
         this.dni = dni;

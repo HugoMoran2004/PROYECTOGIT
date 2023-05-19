@@ -3,7 +3,10 @@ package javaENDES;
 import java.util.Arrays;
 
 public class PruebaCliente {
-
+	/**
+	 * Método prinicpal
+	 * @param args
+	 */
     public static void main(String[] args) {
         // 
         
